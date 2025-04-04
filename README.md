@@ -1,63 +1,17 @@
-# baka1g3t
+# Hi there 👋
 
-## Overview
-Welcome to baka1g3t, my first programming project! This repository contains the code and resources for baka1g3t, a project focused on [brief description of what your project does].
+## I'm a Developer & Tech Enthusiast
 
-## Features
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
+- 🔭 Currently working on: **baka1g3t** (my first project)
+- 🌱 Learning: **[technologies you're learning]**
+- 💬 Ask me about: **[your interests]**
+- 📫 Reach me: **[contact info]**
 
-## Getting Started
+### Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Prerequisites
-- [Prerequisite 1]
-- [Prerequisite 2]
-
-### Installation
-1. Clone the repository
-   ```
-   git clone https://github.com/yourusername/baka1g3t.git
-   ```
-2. Navigate to the project directory
-   ```
-   cd baka1g3t
-   ```
-3. [Additional installation steps if needed]
-
-## Usage
-[Provide examples of how to use your project]
-
-```
-[code example]
-```
-
-## Project Structure
-```
-baka1g3t/
-├── [folder1]/
-│   ├── [file1]
-│   └── [file2]
-├── [folder2]/
-└── README.md
-```
-
-## Roadmap
-- [Future feature 1]
-- [Future feature 2]
-- [Bug fixes or improvements]
-
-## Contributing
-As this is my first project, I'm open to suggestions and contributions! Feel free to fork the repository and submit pull requests.
-
-## License
-[Choose an appropriate license for your project]
-
-## Acknowledgments
-- [Person or resource that helped you]
-- [Inspiration for the project]
-- [Any other acknowledgments]
-
-## Contact
-- GitHub: [your GitHub username]
-- Email: [your email if you want to share]
+### Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true)
